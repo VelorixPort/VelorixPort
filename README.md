@@ -2,7 +2,7 @@
 - 👀 I’m interested in Port Firmware Android
 - 🌱 I’m currently learning Kotline,Python,Java,Accembler
 - 💞️ I’m looking to collaborate on Veythrix
-- 📫 How to reach me TG @AgentSheld or @Velorixport
+- 📫 How to reach me TG @AgentSheld or @Velorix
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Android)))
 
